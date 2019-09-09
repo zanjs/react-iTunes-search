@@ -2,7 +2,7 @@
 
 [![David](https://img.shields.io/david/LeoAJ/react-iTunes-search.svg?style=flat-square)](https://david-dm.org/LeoAJ/react-iTunes-search)
 [![David](https://img.shields.io/david/dev/LeoAJ/react-iTunes-search.svg?style=flat-square)](https://david-dm.org/LeoAJ/react-iTunes-search#info=devDependencies)
-[![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)](https://github.com/LeoAJ/react-iTunes-search/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)](https://github.com/LeoAJ/react-iTunes-search/blob/master/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-iTunes-search.svg)](https://greenkeeper.io/)
 
 simple web app for iTunes search with React
 
